@@ -1,3 +1,7 @@
+
+
+![pixeltte_1](https://github.com/user-attachments/assets/68fac31b-1330-42b9-8892-46dd8163146d)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
